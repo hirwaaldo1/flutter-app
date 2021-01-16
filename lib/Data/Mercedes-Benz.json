@@ -1,0 +1,82 @@
+[
+    {
+        "id":"1",
+        "name":"AMG® GTS Coupe",
+        "class":"A-class",
+        "price":"$115K",
+        "describe":"With a “GT” designation that indicates higher horsepower",
+        "type":"GT",
+        "Passenger":"2 Passenger",
+        "Doors":"2",
+        "image":[
+            "https://di-uploads-pod2.s3.amazonaws.com/tafelmercedezbenz/uploads/2016/10/2016-AMG-GTS-COUPE-THEME-1880x1200.png",
+            "https://www.benzelbusch.com/sites/default/files/vehicles/2016/Mercedes-Benz/AMG%20GT/7e9e859d9dc64220bdec36e647cc728b.jpg",
+            "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2017-mercedes-benz-amg-gt-s-coupe-silver-1200x800-%281%29.jpg"
+        ]
+
+    },
+    {
+        "id":"2",
+        "name":"CLS 63 AMG® Coupe",
+        "class":"B-class",
+        "price":"$135K",
+        "describe":"Exclusive AMG® design lower bodywork speaks to style",
+        "type":"AMG®",
+        "Passenger":"4 passenger",
+        "Doors":"4 doors",
+        "image":[
+            "https://di-uploads-pod2.s3.amazonaws.com/tafelmercedezbenz/uploads/2016/10/2015-CLS-CLASS-CLS63-AMG-COUPE-THEME-1880x1200.png",
+            "https://i.pinimg.com/originals/b0/e5/ba/b0e5bad860d4eee3c9bbf31111c0075a.jpg",
+            "https://images93.fotosik.pl/79/38beb662bf7d2a91.jpg"
+        ]
+
+    },
+    {
+        "id":"3",
+        "name":"SL 65 AMG® Roadster",
+        "class":"A-class",
+        "price":"$130K",
+        "describe":"Equipped with a 630-hp V-12 engine ",
+        "type":" Roadster",
+        "Passenger":"2 passenger",
+        "Doors":"2 doors",
+        "image":[
+            "https://di-uploads-pod2.s3.amazonaws.com/tafelmercedezbenz/uploads/2016/10/2017-SL65-AMG-ROADSTER-THEME-1880x1200.png",
+            "https://www.bentleygoldcoast.com/galleria_images/4935/4935_p2_l.jpg",
+            "https://www.drivingemotions.com/galleria_images/158/158_main_l.jpg"
+        ]
+
+    },
+    {
+        "id":"4",
+        "name":"G 63 AMG® SUV",
+        "class":"C-class",
+        "price":"$150K",
+        "describe":"more ferocious, luxurious, and more exclusive ",
+        "type":" G 63 SUV",
+        "Passenger":"4 passenger",
+        "Doors":"4 doors",
+        "image":[
+            "https://di-uploads-pod2.s3.amazonaws.com/tafelmercedezbenz/uploads/2016/10/D_SUVWagonAMG_G63@2x.png",
+            "https://s1.cdn.autoevolution.com/images/news/darth-vader-s-all-black-2019-mercedes-amg-g63-has-topcar-carbon-package-133389_1.jpg",
+            "https://s1.cdn.autoevolution.com/images/news/gallery/darth-vader-s-all-black-2019-mercedes-amg-g63-has-topcar-carbon-package_4.jpg"
+        ]
+
+    },
+    {
+        "id":"5",
+        "name":"GLA 45 AMG® SUV",
+        "class":"S-class",
+        "price":"$120K",
+        "describe":" the world’s most powerful 4-cylinder production engine",
+        "type":" G 45 SUV",
+        "Passenger":"4 passenger",
+        "Doors":"4 doors",
+        "image":[
+            "https://di-uploads-pod2.s3.amazonaws.com/tafelmercedezbenz/uploads/2016/10/2015-GLA45-AMG-THEME-1880x1200.png",
+            "https://www.mercedes-benz.com.cy/passengercars/mercedes-benz-cars/models/gla/gla-h247/amg/comparison-slider/_jcr_content/comparisonslider/par/comparisonslide_1542444836/interiorImage.MQ6.12.20201103140930.jpeg",
+            "https://www.drivespark.com/img/2017/11/mercedes-amg-gla-45-india-launch-07-1510041063.jpg"
+        ]
+
+    }
+]

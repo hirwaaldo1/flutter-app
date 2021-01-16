@@ -1,0 +1,82 @@
+[
+    {
+        "id":"1",
+        "name":"Mustang EcoBoost®",
+        "class":"A-class",
+        "price":"$155K",
+        "describe":"EcoBoost® engine is Mustang delivers 310 horsepower and 350lb",
+        "type":"Mustang",
+        "Passenger":"5 Passenger",
+        "Doors":"4",
+        "image":[
+            "https://build.ford.com/dig/Ford/Mustang/2020/HD-TILE/Image%5B%7CFord%7CMustang%7C2020%7C1%7C1.%7C100A.P8T..YZ..882.LESS.LRS.MST.RWD.99H.LTS.64A.~VIRTUALPKGPART_AACAA_0.~VIRTUALPKGPART_AB2AA_2.~VIRTUALPKGPART_D17AA_5.~VIRTUALPKGPART_D2YFY_6.~VIRTUALPKGPART_YPJAA_8.SYN.13D.ANT.453.58A.CLO.TDP.44X.EBST.COU.892.2020%20P8T%20FORD.%5D/EXT/1/vehicle.png",
+            "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2020/collections/equipment/3-2/20_FRD_MST_42383_32.jpg/_jcr_content/renditions/cq5dam.web.768.768.jpeg",
+            "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2020/collections/equipment/3-2/20_FRD_C8799918_MUST_EcoBoost_Prem_Fastback_34FrntDrvrStatic_mj_32.jpg/_jcr_content/renditions/cq5dam.web.768.768.jpeg"
+        ]
+
+    },
+    {
+        "id":"2",
+        "name":"Edge ST",
+        "class":"S-class",
+        "price":"$195K",
+        "describe":"Eye-catching and unique to ST",
+        "type":"Mustang",
+        "Passenger":"5 passenger",
+        "Doors":"4 doors",
+        "image":[
+            "https://build.ford.com/dig/Ford/Edge/2020/HD-TILE/Image%5B%7CFord%7CEdge%7C2020%7C1%7C1.%7C400A.K4A..FM..886.ST.61P.90H.85W.17R.61B.76L.59P.POW.62P.59G.SLR.51G.53G.58B.AWD.99P.LMI.TDU.~VIRTUALPKGPART_DEEAB_23.~VIRTUALPKGPART_HNAAD_24.~VIRTUALPKGPART_HUKAB_25.~VIRTUALPKGPART_IEXAB_26.~VIRTUALPKGPART_IGDAC_27.44F.~VIRTUALPKGPART_YACAA_58.~VIRTUALPKGPART_YBNAA_59.~VIRTUALPKGPART_ZJDAA_60.89E.644.SSR.66B.2020%20K4A%20FORD.%5D/EXT/1/vehicle.png",
+            "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/edge/2020/collections/equipment/3-2/19_EDGE_MYCO_105_1504_RGB_PK_32.jpg/_jcr_content/renditions/cq5dam.web.768.768.jpeg",
+            "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/edge/2020/collections/equipment/3-2/19_FRD_EDG_45282_32.jpg/_jcr_content/renditions/cq5dam.web.768.768.jpeg"
+        ]
+
+    },
+    {
+        "id":"3",
+        "name":"Fusion Hybrid SEL",
+        "class":"E-class",
+        "price":"$160K",
+        "describe":"The more efficiently you,The more leaves you grow",
+        "type":"Fusion",
+        "Passenger":"5 passenger",
+        "Doors":"4 doors",
+        "image":[
+            "https://build.ford.com/dig/Ford/Fusion/2020/HD-TILE/Image%5B%7CFord%7CFusion%7C2020%7C1%7C1.%7C600A.P0M..J7..88L.425.BRD.SSR.SY3.64H.99U.ACT.FWD.ELC.44J.HHH.T7G.HSL.89T.573.62A.LWS.53B.60N.61B.59C.43P.58E.2020%20P0M%20FORD.%5D/EXT/1/vehicle.png",
+            "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/fusion/2020/collections/equipment/3-2/19_frd_fsn_200032_32.jpg/_jcr_content/renditions/cq5dam.web.768.768.jpeg",
+            "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/fusion/2020/collections/3-2/20FP_FordPassApp_iPhone6_32.jpg/_jcr_content/renditions/cq5dam.web.768.768.jpeg"
+        ]
+
+    },
+    {
+        "id":"4",
+        "name":"TRANSIT CONNECT",
+        "class":"K-class",
+        "price":"$250K",
+        "describe":"SYNC® is our easy-to-use,responsive voice activated technology",
+        "type":" SYNC®",
+        "Passenger":"5 passenger",
+        "Doors":"4 doors",
+        "image":[
+            "https://build.ford.com/dig/Ford/Transit%20Connect%20Wagon/2020/HD-TILE/Image%5B%7CFord%7CTransit%20Connect%20Wagon%7C2020%7C1%7C1.%7C210A.E9F..FK..88P.21B.WLT.87K.576.924.55A.43D.18G.18K.68M.544.525.85D.76R.51C.51G.96B.425.58Z.FWD.992.CLO.LWB.T55.RET.448.LWW.WGN.89B.64D.2020%20E9F%20FORD.%5D/EXT/4/vehicle.png",
+            "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/transitconnectwagon/2020/collections/equipment/3-2/19_FRD_TRC_41001_FINAL_sd_32.jpg/_jcr_content/renditions/cq5dam.web.768.768.jpeg",
+            "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/transitconnectwagon/2020/collections/equipment/3-2/20_FRD_TRC_41002_FINAL_sd-32.jpg/_jcr_content/renditions/cq5dam.web.768.768.jpeg"
+        ]
+
+    },
+    {
+        "id":"5",
+        "name":"F-150 XLT",
+        "class":"O-class",
+        "price":"$820K",
+        "describe":" the world’s most powerful Ti-VCT V6 production engine",
+        "type":" F-150 XLT",
+        "Passenger":"5 passenger",
+        "Doors":"4 doors",
+        "image":[
+            "https://build.ford.com/dig/Ford/F-150/2021/HD-TILE/Image%5B%7CFord%7CF-150%7C2021%7C1%7C1.%7C300A.F1C.122.UM.LSC.88M.XLT.MFP.RWD.99B.RCAB.CLMAG.RET.64F.SY4.924.57Q.168.50S.76R.595.17C.X19.43A.85A.58A.CLO.DECAL.T72.44G.775.BLDAE.89S.SS6.2021%20F1C%20FORD.%5D/EXT/1/vehicle.png",
+            "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/f-150/2021/collections/equipment/3-2/19_FRD_F15_43661_3_3_Ti-VCT_V6_PK_32.jpg/_jcr_content/renditions/cq5dam.web.768.768.jpeg",
+            "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/f-150/2021/collections/equipment/3-2/BlissTrailer_F150_2021_32.jpg/_jcr_content/renditions/cq5dam.web.768.768.jpeg"
+        ]
+
+    }
+]
